@@ -63,6 +63,14 @@ It's possible to shift React Native materials earlier if it's convenient. That a
   - Blog Platform
   - Job Board
   - Inventory Management
+- Single Page
+  - Mobilize Existing Applications
+  - Mobile Todo App
+  - Social Media Timeline
+- Full Fledge
+  - E-Commerce
+  - Taxi Booking
+  - Fitness Tracker
 
 --------------------------------------------------------------------------------
 
@@ -198,6 +206,54 @@ It's possible to shift React Native materials earlier if it's convenient. That a
 
 --------------------------------------------------------------------------------
 
+## Level 6
+
+### Materials
+
+- React Native
+  - Preparing for Android & iOS app development
+  - vs NativeScript, Meteor, Ionic, Phonegap, etc
+  - vs Java/Kotlin, Objective-C/Swift, etc
+- Mobile development tools
+  - Android Studio + Gradle
+  - Apple XCode + CocoaPods
+  - Expo XDE and Snack
+- [Debugging React Native Applications – React Native Academy](https://medium.com/reactnativeacademy/debugging-react-native-applications-6bff3f28c375)
+- Primitive components
+- Animation and styling
+- Navigation
+  - `StackNavigator`, `TabNavigator`
+- Usage with Redux
+- Deployment
+  - Over the wire updates: [`react-native-auto-updater`](https://github.com/redbooth/react-native-auto-updater)
+  - [CodePush](http://microsoft.github.io/code-push)
+  - [AppHub Deploy](https://deploy.apphub.io)
+- [React-Native—Leading Practices and Learnings](https://accenture.github.io/blog/2017/04/04/reactlearnings.html)
+- [React Native Limitations and Best Practices to Deal With Them](https://jssolutionsdev.com/blog/react-native-limitations-and-best-practices-to-deal-with-them)
+- [Performance profiling](https://facebook.github.io/react-native/docs/performance.html)
+
+--------------------------------------------------------------------------------
+
+## Level 7
+
+### Materials
+
+- Communication between native and React Native
+  - Native Modules
+  - Native UI Components
+  - Connecting React Native to Java/Kotlin or Objective-C/Swift
+- Integration with various APIs
+  - Real time data
+  - Image processing
+  - Analytics
+  - Search
+  - Maps
+- UI components library
+  - NativeBase, Shoutem, Nachos, etc
+- Final recap and conclusion
+
+--------------------------------------------------------------------------------
+
 ## References
 
 ### JavaScript (ES6/ES+)
@@ -242,6 +298,17 @@ It's possible to shift React Native materials earlier if it's convenient. That a
 - [React Tinkerer Manual](https://github.com/adhywiranata/react-tinkering-manual)
 - [Video Tutorial: React untuk Pemula | DumbWays.id - Screencast](https://dumbways.id/p/react-untuk-pemula)
 - [React Dasar](https://www.idrails.com/series/react-dasar)
+
+### React Native
+
+- [React Native - A framework for building native apps using React](https://facebook.github.io/react-native)
+- [Expo](https://expo.io)
+- [Learn React Native Today](https://egghead.io/browse/tools/react-native)
+- [React Navigation](https://reactnavigation.org/)
+- [Building a Simple ToDo App With React Native and Firebase](https://youtube.com/watch?v=3ab0K6viEp0)
+- [An iOS Developer on React Native](https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0)
+- [NativeBase - Essential cross-platform UI components for React Native](https://nativebase.io)
+- [NativeScript - Cross-Platform Native Development with JavaScript](https://nativescript.org)
 
 ### Full Stack Software Development
 

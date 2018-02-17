@@ -298,6 +298,7 @@ It's possible to shift React Native materials earlier if it's convenient. That a
 - [React Tinkerer Manual](https://github.com/adhywiranata/react-tinkering-manual)
 - [Video Tutorial: React untuk Pemula | DumbWays.id - Screencast](https://dumbways.id/p/react-untuk-pemula)
 - [React Dasar](https://www.idrails.com/series/react-dasar)
+- [React HMR with `create-react-app`](https://daveceddia.com/hot-reloading-create-react-app)
 
 ### React Native
 

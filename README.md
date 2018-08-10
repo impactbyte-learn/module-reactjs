@@ -1,5 +1,7 @@
 # React & React Native Lesson Plan
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/impactbyte-learn/module-reactjs.svg)](https://greenkeeper.io/)
+
 What you need to learn about React & React Native in a short amount of time.
 
 --------------------------------------------------------------------------------
